@@ -25,6 +25,14 @@ Entendo o problema, organizo o domínio e construo tecnologia que aguenta o dia 
 3. **IA aplicada, não de vitrine.** Uso prático para automatizar e acelerar entregas.
 4. **Dados que viram decisão.** Indicador só serve se ajuda a agir.
 
+#### 🏙️ Minha cidade de contribuições
+
+Cada prédio representa um dia de atividade no GitHub. Clique na cidade para explorar a versão interativa do [GitCity](https://github.com/rishabhbhartiya/GitCity).
+
+[![Cidade de contribuições de @rangelbruno no GitCity](https://gitcity.natrajx.in/api/svg?u=rangelbruno)](https://gitcity.natrajx.in/rangelbruno)
+
+> A visualização depende dos dados de contribuição disponíveis publicamente e do serviço externo GitCity; contribuições privadas podem não aparecer integralmente.
+
 #### 📫 Contato
 
 🌐 [rangelbruno.org](https://rangelbruno.org)
