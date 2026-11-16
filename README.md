@@ -25,30 +25,30 @@ Entendo o problema, organizo o domínio e construo tecnologia que aguenta o dia 
 3. **IA aplicada, não de vitrine.** Uso prático para automatizar e acelerar entregas.
 4. **Dados que viram decisão.** Indicador só serve se ajuda a agir.
 
-#### 📫 Contato
-
-🌐 [rangelbruno.org](https://rangelbruno.org)
-
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/summary-light.svg" width="400" alt="GitHub stats">
+  <img src="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/summary-light.svg" width="400" alt="Estatísticas no GitHub">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/languages-light.svg" width="400" alt="Most used languages">
+  <img src="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/languages-light.svg" width="400" alt="Linguagens mais usadas">
 </picture>
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/contributions-light.svg" width="400" alt="Notable contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/weekly-light.svg" width="400" alt="Ritmo semanal">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/rangelbruno/rangelbruno/cards/streaks-light.svg" width="400" alt="Sequências">
 </picture>
 </p>
 <!-- cool-readme:end -->
+
+#### 📫 Contato
+
+🌐 [rangelbruno.org](https://rangelbruno.org)

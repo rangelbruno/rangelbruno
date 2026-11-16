@@ -1,5 +1,6 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: rangelbruno
+show: [summary, languages, weekly, streaks]
 count:
   private: true
   orgs: true
@@ -7,3 +8,10 @@ look:
   style: classic
   color: github
   background: none
+cards:
+  languages:
+    title: Linguagens mais usadas
+  weekly:
+    title: Ritmo semanal
+  streaks:
+    title: Sequências
