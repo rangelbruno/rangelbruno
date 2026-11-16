@@ -14,7 +14,6 @@ Entendo o problema, organizo o domínio e construo tecnologia que aguenta o dia 
 |---|---|---|
 | [**OpenData Query AI**](https://github.com/rangelbruno/opendataquery) | Pergunte aos seus dados em português: conecta PostgreSQL, MySQL, MongoDB ou planilhas e gera consultas somente leitura | Open source (MIT) |
 | [**Tribunal 2.0**](https://github.com/rangelbruno/tribunal) | Assina PDFs com certificado A3, divide PDFs e aplica OCR para torná-los pesquisáveis | Open source |
-| **Sistema de Votação e Deliberação** | Sessões legislativas com chamada, quórum, tribuna, votação e painel público em tempo real | Em evolução |
 | **AZClinic** | Gestão de clínicas: agenda, pacientes, prontuário e documentos | No ar |
 | **HUB de Jogos** | Plataforma que reúne jogos para jogar e descobrir | No ar |
 
